@@ -7,7 +7,7 @@
 html{scroll-behavior:smooth}
 body{font-family:'Pretendard Variable',Pretendard,'Malgun Gothic',sans-serif;color:var(--ink);background:var(--paper);
      font-size:19px;line-height:1.8;-webkit-text-size-adjust:100%}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}  /* ★height:auto 가 없으면 HTML의 height 속성이 그대로 먹어 이미지가 눌린다 (2026-09-09 명함 이미지 869x654 → 484x654 로 찌그러짐) */
 a{color:inherit}
 .wrap{max-width:var(--wrap);margin:0 auto;padding:0 24px}
 
