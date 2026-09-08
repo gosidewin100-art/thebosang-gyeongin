@@ -16,7 +16,7 @@ header{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.94);
        backdrop-filter:blur(8px);border-bottom:1px solid var(--hair)}
 .hd{display:flex;align-items:center;justify-content:space-between;height:74px}
 .brand{display:flex;align-items:center;gap:11px;font-weight:800;font-size:20px;letter-spacing:-.5px}
-.mark{width:30px;height:30px;flex:0 0 30px}
+.mark{width:25px;height:auto;flex:0 0 25px}  /* 실제 로고 비율 319:440 */
 .hd-tel{display:inline-flex;align-items:center;gap:9px;background:var(--green);color:#fff;
         font-weight:700;font-size:17px;padding:12px 20px;border-radius:2px;text-decoration:none}
 .hd-tel:hover{background:var(--green-d)}
