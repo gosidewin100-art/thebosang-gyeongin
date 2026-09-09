@@ -20,11 +20,25 @@ header{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.94);
 .hd-tel{display:inline-flex;align-items:center;gap:9px;background:var(--green);color:#fff;
         font-weight:700;font-size:17px;padding:12px 20px;border-radius:2px;text-decoration:none}
 .hd-tel:hover{background:var(--green-d)}
-@media(max-width:640px){.hd-tel span.t{display:none}.hd{height:64px}.brand{font-size:17px}}
+.brand{white-space:nowrap}
+.brand .sub{font-weight:600;color:var(--ink2);font-size:.8em}
+.hd-tel{white-space:nowrap}
+/* ★390px 기준 실측: 상호 169 + 전화 173 + 여백 48 = 390. 그대로 두면 둘 다 두 줄로 깨진다 */
+@media(max-width:640px){
+  .hd-tel span.t{display:none}
+  .hd{height:64px}
+  .brand{font-size:16px;gap:8px}
+  .mark{width:22px;flex:0 0 22px}
+  .hd-tel{font-size:15.5px;padding:10px 14px;gap:7px}
+}
+@media(max-width:400px){
+  .brand .sub{display:none}          /* 상호만 남긴다 */
+  .hd-tel{font-size:15px;padding:10px 12px}
+}
 
 /* ── 히어로 ── */
 .hero{border-bottom:1px solid var(--hair);overflow:hidden}
-.hero-in{display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:end;padding:52px 0 0}
+.hero-in{display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:end;padding:52px 24px 0}  /* ★좌우 24px 를 빼먹으면 .wrap 의 여백을 덮어써 글자가 화면 끝에 붙는다 */
 .eyebrow{font-size:14.5px;font-weight:700;letter-spacing:.14em;color:var(--green);
          text-transform:uppercase;margin-bottom:22px}
 h1{font-size:clamp(36px,5.4vw,62px);font-weight:800;line-height:1.24;letter-spacing:-2.4px}
@@ -43,11 +57,20 @@ h1 em{font-style:normal;box-shadow:inset 0 -.42em 0 rgba(166,207,79,.55)}
           border-left:4px solid var(--green);padding:14px 18px;font-size:16px;line-height:1.5}
 .hero-tag b{display:block;font-size:18px;font-weight:800}
 @media(max-width:900px){
-  .hero-in{grid-template-columns:1fr;padding-top:48px;gap:0}
+  .hero-in{grid-template-columns:1fr;padding-top:40px;gap:0}
   .hero-fig{order:-1}
   .hero-fig img{margin:0 auto;height:270px}
   .hero-tag{position:static;margin:14px 0 26px;display:inline-block}
   .hero-cta{margin-bottom:44px}
+}
+/* ★사진이 270px 이면 헤드라인이 첫 화면 밖으로 밀린다. 폰에서는 얼굴만 보이면 된다 */
+@media(max-width:640px){
+  .hero-in{padding-top:28px}
+  .hero-fig img{height:210px}
+  .hero-tag{margin:10px 0 20px;padding:11px 14px;font-size:15px}
+  .hero-tag b{font-size:16.5px}
+  .lead{margin-top:18px}
+  .hero-cta{margin:22px 0 36px}
 }
 
 /* ── 공통 섹션 ── */
@@ -143,3 +166,15 @@ footer b{color:#fff}
 .rv{opacity:0;transform:translateY(16px);transition:opacity .5s ease,transform .5s ease}
 .rv.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+
+/* ── 모바일 가독성 (대표님 2026-09-09) ──
+   데스크톱 19px/20px 를 폰에서 그대로 쓰면 한 줄에 들어가는 글자가 적어
+   문단이 길어지고 읽다가 만다. 폰에서만 한 단계 내린다 */
+@media(max-width:640px){
+  body{font-size:17px;line-height:1.75}
+  .lead{font-size:17.5px}
+  .sec-head p{font-size:17px}
+  section{padding:64px 0}
+  .btn{font-size:17px;padding:16px 22px}
+  h1{letter-spacing:-1.4px}
+}
