@@ -170,9 +170,34 @@ textarea{min-height:118px;resize:vertical;line-height:1.7}
 .done b{display:block;font-size:23px;font-weight:800;margin-bottom:10px}
 @media(max-width:640px){.form-grid{grid-template-columns:1fr}}
 
+/* ── 전송 실패 안내 ── */
+.fail{display:none;border:2px solid #C0392B;padding:30px;background:#FFF5F4}
+.fail>b{display:block;font-size:22px;font-weight:800;margin-bottom:10px;color:#A93226}
+.fail p b{color:#A93226}
+.fail p{font-size:17px;color:#46554E;line-height:1.7;margin-bottom:14px}
+.fail .fail-acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.fail .fail-acts a,.fail .fail-acts button{display:inline-flex;align-items:center;justify-content:center;
+  padding:15px 22px;font-size:17px;font-weight:800;border:2px solid var(--ink);background:#fff;
+  color:var(--ink);cursor:pointer;text-decoration:none;font-family:inherit}
+.fail .fail-acts .pri{background:#C0392B;border-color:#C0392B;color:#fff}
+.fail .fail-code{margin-top:16px;font-size:13.5px;color:#8A7A78;word-break:break-all}
+
+/* ── 개인정보 동의 ── */
+.agree+.agree{margin-top:14px}
+.agree.sensitive{border:1.5px solid var(--hair);background:#F7FAF8;padding:16px;border-radius:2px}
+.agree small{display:block;margin-top:6px;font-size:14.5px;color:#6E7F77;line-height:1.6}
+
+/* ── 성공보수 고지 ── */
+.zero .zero-fee{font-size:16px;color:#9FB2AA;margin-top:22px;line-height:1.7;max-width:34em}
+.zero .zero-fee b{color:#D8E4DE}
+
 /* ── 푸터 ── */
 footer{background:var(--ink);color:#8FA098;padding:56px 0 118px;font-size:16px;line-height:1.8}
 footer b{color:#fff}
+footer a{color:#C6D3CD;text-decoration:underline;text-underline-offset:3px}
+footer a:hover{color:#fff}
+.foot-note{margin-top:22px;font-size:14.5px;color:#6E7F77;line-height:1.7}
+.foot-biz{margin-top:18px;font-size:14.5px;color:#6E7F77;line-height:1.7}
 .fbar{position:fixed;left:0;right:0;bottom:0;z-index:70;display:none;
       grid-template-columns:1fr 1fr;gap:1px;background:var(--hair)}
 .fbar a{display:flex;align-items:center;justify-content:center;gap:8px;padding:19px 8px;
