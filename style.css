@@ -221,3 +221,12 @@ footer a:hover{color:#fff}
   .btn{font-size:17px;padding:16px 22px}
   h1{letter-spacing:-1.4px}
 }
+
+/* 본문 문장 링크(대표님 2026-10-22): 섹션마다 1~2개, 자연스러운 문장 안에서 상담·관련 글로 이어지게 */
+.tl{color:var(--green-d);font-weight:700;text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:4px;text-decoration-color:rgba(41,138,71,.45)}
+.tl:hover,.tl:focus-visible{text-decoration-color:currentColor;color:var(--green)}
+.sec-ink .tl{color:var(--lime);text-decoration-color:rgba(166,207,79,.6)}
+.sec-ink .tl:hover{color:#C4E07F}
+.ctx{margin-top:24px;font-size:18px;line-height:1.75;color:var(--ink2)}
+.sec-ink .ctx{color:#B9C7C0}
+@media(max-width:760px){.ctx{font-size:16.5px}}
