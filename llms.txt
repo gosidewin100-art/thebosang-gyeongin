@@ -9,8 +9,8 @@
 ## 주요 페이지
 - [홈](https://www.thebosang-gyeongin.co.kr/)
 - [산재 처리 사례](https://www.thebosang-gyeongin.co.kr/cases.html)
-- [산재 자주 묻는 질문](https://www.thebosang-gyeongin.co.kr/faq/): 질문과 답 244편
-- [산재 성공사례](https://www.thebosang-gyeongin.co.kr/success/): 사례 197편
+- [산재 자주 묻는 질문](https://www.thebosang-gyeongin.co.kr/faq/): 질문과 답 252편
+- [산재 성공사례](https://www.thebosang-gyeongin.co.kr/success/): 사례 199편
 
 ## 질병·사고별 안내
 - [사고 · 출퇴근 재해 산재 인정 기준과 준비 자료](https://www.thebosang-gyeongin.co.kr/disease/accident.html)
