@@ -9,7 +9,7 @@
 ## 주요 페이지
 - [홈](https://www.thebosang-gyeongin.co.kr/)
 - [산재 처리 사례](https://www.thebosang-gyeongin.co.kr/cases.html)
-- [산재 자주 묻는 질문](https://www.thebosang-gyeongin.co.kr/faq/): 질문과 답 323편
+- [산재 자주 묻는 질문](https://www.thebosang-gyeongin.co.kr/faq/): 질문과 답 328편
 - [산재 성공사례](https://www.thebosang-gyeongin.co.kr/success/): 사례 214편
 - [경기 지역별 산재 안내](https://www.thebosang-gyeongin.co.kr/region/): 지역별 근로복지공단 담당 지사·노동관서·법원 안내 36편
 
