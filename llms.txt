@@ -11,7 +11,7 @@
 - [산재 처리 사례](https://www.thebosang-gyeongin.co.kr/cases.html)
 - [산재 자주 묻는 질문](https://www.thebosang-gyeongin.co.kr/faq/): 질문과 답 348편
 - [산재 성공사례](https://www.thebosang-gyeongin.co.kr/success/): 사례 219편
-- [경기 지역별 산재 안내](https://www.thebosang-gyeongin.co.kr/region/): 지역별 근로복지공단 담당 지사·노동관서·법원 안내 44편
+- [경기 지역별 산재 안내](https://www.thebosang-gyeongin.co.kr/region/): 지역별 근로복지공단 담당 지사·노동관서·법원 안내 52편
 
 ## 질병·사고별 안내
 - [사고 · 출퇴근 재해 산재 인정 기준과 준비 자료](https://www.thebosang-gyeongin.co.kr/disease/accident.html)
