@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://www.thebosang-gyeongin.co.kr/cases.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
-<url><loc>https://www.thebosang-gyeongin.co.kr/column/after-rejection.html</loc><lastmod>2026-11-03</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/column/after-rejection.html</loc><lastmod>2026-11-04</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/column/after-retirement.html</loc><lastmod>2026-11-04</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/column/apply-without-company.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/column/benefit-types.html</loc><lastmod>2026-10-29</lastmod><priority>0.6</priority></url>
@@ -497,6 +497,9 @@
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/dongducheon-sanjae-appeal.html</loc><lastmod>2026-11-03</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/dongducheon-sanjae-apply.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/dongducheon-sanjae-nomusa.html</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/gapyeong-sanjae-appeal.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/gapyeong-sanjae-apply.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/gapyeong-sanjae-nomusa.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/gimpo-disability-grade.html</loc><lastmod>2026-10-28</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/gimpo-sanjae-appeal.html</loc><lastmod>2026-10-27</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/gimpo-sanjae-apply.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
@@ -537,7 +540,7 @@
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/icheon-sanjae-appeal.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/icheon-sanjae-apply.html</loc><lastmod>2026-11-01</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/icheon-sanjae-nomusa.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
-<url><loc>https://www.thebosang-gyeongin.co.kr/region/</loc><lastmod>2026-11-04</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/</loc><lastmod>2026-11-05</lastmod><priority>0.8</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/namyangju-disability-grade.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/namyangju-sanjae-appeal.html</loc><lastmod>2026-10-28</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/namyangju-sanjae-apply.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
@@ -574,11 +577,16 @@
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yangju-sanjae-appeal.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yangju-sanjae-apply.html</loc><lastmod>2026-11-01</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yangju-sanjae-nomusa.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/yangpyeong-sanjae-appeal.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/yangpyeong-sanjae-apply.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yangpyeong-sanjae-nomusa.html</loc><lastmod>2026-11-04</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoju-disability-grade.html</loc><lastmod>2026-11-04</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoju-sanjae-appeal.html</loc><lastmod>2026-11-03</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoju-sanjae-apply.html</loc><lastmod>2026-11-02</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoju-sanjae-nomusa.html</loc><lastmod>2026-10-31</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoncheon-sanjae-appeal.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoncheon-sanjae-apply.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
+<url><loc>https://www.thebosang-gyeongin.co.kr/region/yeoncheon-sanjae-nomusa.html</loc><lastmod>2026-11-05</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yongin-disability-grade.html</loc><lastmod>2026-10-29</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yongin-sanjae-appeal.html</loc><lastmod>2026-10-27</lastmod><priority>0.6</priority></url>
 <url><loc>https://www.thebosang-gyeongin.co.kr/region/yongin-sanjae-apply.html</loc><lastmod>2026-10-26</lastmod><priority>0.6</priority></url>
